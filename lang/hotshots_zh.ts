@@ -142,7 +142,7 @@
     <message>
         <location filename="../ui/AboutDialog.ui" line="304"/>
         <source>Reset preferences</source>
-        <translation>重置偏好设定</translation>
+        <translation type="unfinished">重置首选项</translation>
     </message>
     <message>
         <location filename="../ui/AboutDialog.ui" line="337"/>
